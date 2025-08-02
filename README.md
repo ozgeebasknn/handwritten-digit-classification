@@ -40,7 +40,7 @@ This project demonstrates how to classify handwritten digits using the `digits` 
 ### Run the project
 
 ```bash
-git clone https://github.com/ozgeebasknn/proje_adi.git
+git clone https://github.com/ozgeebasknn/handwritten-digit-classification.git
 cd proje_adi
 pip install -r requirements.txt
-python proje_adi.py
+python rakamlarin_goruntu_siniflandirma.py
